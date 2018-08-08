@@ -4,6 +4,10 @@
   "description": "Based on Mariana theme from Sublime Text 3.",
   "version": "1.0.0",
   "publisher": "smlombardi",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/smlombardi/theme-mariana-midnight.git"
+  },
   "engines": {
     "vscode": "^1.16.0"
   },
