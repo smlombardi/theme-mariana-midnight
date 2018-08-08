@@ -1,0 +1,23 @@
+{
+  "name": "mariana",
+  "displayName": "Mariana Midnight",
+  "description": "Based on Mariana theme from Sublime Text 3.",
+  "version": "1.0.0",
+  "publisher": "smlombardi",
+  "engines": {
+    "vscode": "^1.16.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "extension-logo.png",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Mariana Midnight",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Mariana-Midnight-color-theme.json"
+      }
+    ]
+  }
+}
