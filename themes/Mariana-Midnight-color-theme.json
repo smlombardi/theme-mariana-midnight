@@ -196,7 +196,7 @@
       }
     },
     {
-      "name": "Charaxter Entity ",
+      "name": "Character Entity ",
       "scope": "constant.character.entity, punctuation.definition.entity.html",
       "settings": {
         "foreground": "#80bcc7",
@@ -375,6 +375,14 @@
     // steve, new
 
     {
+      "name": "Boolean",
+      "scope": "constant.language.boolean",
+      "settings": {
+        "foreground": "#db70a5"
+      }
+    },
+
+    {
       "scope": "entity.other.inherited-class",
       "settings": {
         "fontStyle": "",
@@ -532,6 +540,12 @@
       "settings": {
         "fontStyle": "",
         "foreground": "#ddcb9b"
+      }
+    },
+    {
+      "scope": "support.variable.property.dom.ts",
+      "settings": {
+        "fontStyle": "italic"
       }
     },
     {
