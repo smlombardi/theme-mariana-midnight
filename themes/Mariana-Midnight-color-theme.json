@@ -4,6 +4,8 @@
     "activityBar.background": "#31373f",
     "activityBar.foreground": "#949da8",
     "activityBarBadge.background": "#9d62b8",
+    "breadcrumb.background": "#282e36",
+    "breadcrumbPicker.background": "#282e36",
     "dropdown.background": "#292e35",
     "editor.background": "#313942",
     "editor.foreground": "#f0f0f0",
