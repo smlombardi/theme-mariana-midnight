@@ -233,7 +233,7 @@
       "scope": "support.function, support.macro",
       "settings": {
         "foreground": "#6699cc",
-        "fontStyle": "italic"
+        "fontStyle": ""
       }
     },
     {
@@ -250,6 +250,14 @@
       "settings": {
         "foreground": "#6699cc",
         "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Library class/type",
+      "scope": "support.class.console",
+      "settings": {
+        "foreground": "#e7dc37",
+        "fontStyle": ""
       }
     },
 
@@ -440,30 +448,31 @@
         "fontStyle": ""
       }
     },
+
     {
-      "scope": "meta.definition.method.ts entity.name.function.ts",
-      "settings": {
-        "foreground": "#bbab51"
-      }
-    },
-    {
-      "scope": "meta.object-literal.key",
+      "scope": "meta.object-literal.key, meta.object.member.object-literal.key",
       "settings": {
         "foreground": "#ada293",
         "fontStyle": ""
       }
     },
     {
-      "scope": "variable,variable punctuation.definition",
+      "scope": "variable,variable punctuation.definition, support.variable.property.dom.ts",
       "settings": {
-        "foreground": "#c0c0c0",
+        "foreground": "#cdbfd6",
         "fontStyle": "italic"
       }
     },
     {
-      "scope": "meta.decorator.ts meta.function-call.tsentity.name.function.ts",
+      "scope": "meta.decorator.ts meta.function-call.ts entity.name.function.ts",
       "settings": {
         "foreground": "#5fb3b3"
+      }
+    },
+    {
+      "scope": "meta.definition.method.ts entity.name.function.ts, entity.name.function.ts",
+      "settings": {
+        "foreground": "#bbab51"
       }
     },
     {
@@ -473,7 +482,7 @@
       }
     },
     {
-      "scope": "entity.other.attribute-name.html, entity.other.attribute-name.id.html",
+      "scope": "entity.other.attribute-name.html, entity.other.attribute-name.id.html, meta.tag.attribute-name entity.other.attribute-name",
       "settings": {
         "fontStyle": "italic",
         "foreground": "#c594c5"
@@ -544,12 +553,7 @@
         "foreground": "#ddcb9b"
       }
     },
-    {
-      "scope": "support.variable.property.dom.ts",
-      "settings": {
-        "fontStyle": "italic"
-      }
-    },
+
     {
       "scope": "support.type.primitive.ts",
       "settings": {
