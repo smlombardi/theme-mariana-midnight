@@ -62,7 +62,8 @@
     "titleBar.activeBackground": "#31373f",
     "titleBar.activeForeground": "#fff",
     "titleBar.inactiveBackground": "#323639",
-    "widget.shadow": "#292e35"
+    "widget.shadow": "#292e35",
+    "terminalCursor.foreground": "#dd6dce"
   },
   "tokenColors": [
     {
