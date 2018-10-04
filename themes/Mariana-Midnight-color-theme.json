@@ -460,9 +460,9 @@
       }
     },
     {
-      "scope": "meta.decorator.ts meta.function-call.ts entity.name.function.ts",
+      "scope": "meta.decorator.ts meta.function-call.ts entity.name.function.ts, punctuation.decorator",
       "settings": {
-        "foreground": "#5fb3b3"
+        "foreground": "#85b9ac"
       }
     },
     {
@@ -536,13 +536,7 @@
         "foreground": "#d8c870"
       }
     },
-    {
-      "scope": "punctuation.decorator",
-      "settings": {
-        "fontStyle": "",
-        "foreground": "#5fb3b3"
-      }
-    },
+
     {
       "scope": "variable.language.this.ts",
       "settings": {
@@ -598,6 +592,13 @@
       "settings": {
         "fontStyle": "",
         "foreground": "#e9eb80"
+      }
+    },
+    {
+      "scope": "keyword.control.import.ts, keyword.control.from.ts, keyword.control.export.ts",
+      "settings": {
+        "fontStyle": "",
+        "foreground": "#8eb1be"
       }
     },
     {
