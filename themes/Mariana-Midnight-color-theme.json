@@ -189,7 +189,7 @@
       "name": "Entity name",
       "scope": "entity.name.function",
       "settings": {
-        "foreground": "#88e0ca"
+        "foreground": "#6b9956"
       }
     },
     {
