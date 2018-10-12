@@ -7,7 +7,7 @@
     "breadcrumb.background": "#282e36",
     "breadcrumbPicker.background": "#282e36",
     "dropdown.background": "#292e35",
-    "editor.background": "#313942",
+    "editor.background": "#2d343b",
     "editor.foreground": "#f0f0f0",
     "editor.inactiveSelectionBackground": "#4F5B66",
     "editor.lineHighlightBackground": "#424d58",
@@ -488,7 +488,7 @@
       "scope": "entity.name.tag, entity.name.tag.js support.class.component.js",
       "settings": {
         "fontStyle": "",
-        "foreground": "#87a2c0"
+        "foreground": "#89aed8"
       }
     },
     {
