@@ -58,6 +58,7 @@
     "tab.border": "#363d46",
     "tab.inactiveBackground": "#2b3138",
     "tab.inactiveForeground": "#757d86",
+    "tab.activeModifiedBorder": "#e7c085",
     "tab.unfocusedInactiveForeground": "#A7AAAB",
     "titleBar.activeBackground": "#31373f",
     "titleBar.activeForeground": "#fff",
